@@ -5,7 +5,7 @@
 > A curated collection of immutable contracts, architectural constraints, and phase-aware protocols designed to standardize software development across the `pharmacist-sabot` ecosystem.
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Projects](https://img.shields.io/badge/Total_Projects-8-blue)
+![Projects](https://img.shields.io/badge/Total_Projects-9-blue)
 
 ---
 
