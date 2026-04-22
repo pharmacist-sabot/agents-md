@@ -2,7 +2,7 @@
 
 > **The Operating System for Autonomous AI Agents.**
 >
-> A curated collection of immutable contracts, architectural constraints, and phase-aware protocols designed to standardize software development across the `pharmacist-sabot` ecosystem.
+> A curated collection of immutable contracts, architectural constraints, and phase-aware protocols designed to standardize software development across the `suradet-ps` ecosystem.
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Projects](https://img.shields.io/badge/Total_Projects-9-blue)
@@ -60,5 +60,5 @@ Every `AGENTS.md` file in this repository strictly adheres to the following stru
 <div align="center">
 <i>"Control the Agent, Control the Code."</i>
 <br>
-<b>Maintained by pharmacist-sabot</b>
+<b>Maintained by suradet-ps</b>
 </div>
