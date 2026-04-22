@@ -30,7 +30,7 @@ A **fast, robust, and production-ready** command-line utility written in Rust to
 Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed (Rust 2024 Edition or newer), then:
 
 ```bash
-git clone https://github.com/pharmacist-sabot/pdf-splitter.git
+git clone https://github.com/suradet-ps/pdf-splitter.git
 cd pdf-splitter
 cargo build --release
 ```
